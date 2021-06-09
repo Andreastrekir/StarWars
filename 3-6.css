@@ -1,0 +1,71 @@
+
+body{
+	text-align: center;
+	margin-top: 250px;
+	color: white;
+	background-color: black;
+	border: yellow;
+
+}
+
+
+.container{
+	border: 5px solid yellow;
+	border-radius: 20px;
+	height: 300px;
+	width: 500px;
+	padding-top: 60px;
+	margin-left: 700px;
+	margin-bottom: 50px;
+
+}
+
+#button{
+	border: 3px solid yellow;
+	border-radius: 15px;
+	width: 200px;
+	height: 40px;
+	color: black;
+
+}
+
+h1{
+font-family: 'Bungee Inline', cursive;
+font-family: 'Train One', cursive;
+color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
